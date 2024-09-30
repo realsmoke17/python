@@ -1,3 +1,8 @@
+# Student name: Makwarela F 
+# Student no:  230384274
+# Date:  30/09/2024
+# Assignment 3: Python 
+
 #Problem 1
 
 # Given string
